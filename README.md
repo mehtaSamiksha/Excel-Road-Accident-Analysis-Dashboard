@@ -15,7 +15,8 @@ To use this dashboard:
 3. If prompted, enable macros to ensure full functionality.
 
 ## Dashboard Image
-!Dashboard image.png
+![Dashboard image](https://github.com/mehtaSamiksha/Excel-Road-Accident-Analysis-Dashboard/assets/150701933/1f2c9914-7e0f-4d2d-9b81-23945205d8cf)
+
 *The above image showcases the Excel dashboard with its interactive elements and data visualizations.*
 
 ## Usage
