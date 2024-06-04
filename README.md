@@ -1,4 +1,4 @@
-# Road Accident Data Analysis Dashboard
+# Road Accident Analysis Dashboard
 
 ## Introduction
 This repository hosts an Excel dashboard that visualizes road accident data to uncover patterns and insights. The goal is to aid in the development of better road safety measures.
