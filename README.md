@@ -11,11 +11,11 @@ This repository hosts an Excel dashboard that visualizes road accident data to u
 ## Getting Started
 To use this dashboard:
 1. Clone the repository to your local machine.
-2. Open the `Road_Accident_Dashboard.xlsx` file in Microsoft Excel.
+2. Open the `Dashboard.xlsb` file in Microsoft Excel.
 3. If prompted, enable macros to ensure full functionality.
 
 ## Dashboard Image
-!Dashboard image
+!Dashboard image.png
 *The above image showcases the Excel dashboard with its interactive elements and data visualizations.*
 
 ## Usage
